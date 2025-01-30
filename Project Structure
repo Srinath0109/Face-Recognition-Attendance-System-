@@ -1,0 +1,10 @@
+FaceRecognitionAttendance/
+│── dataset/                  # Stores images of registered users
+│── models/                   # Trained face recognition models
+│── attendance.csv            # Stores attendance records
+│── face_recognition.py       # Face recognition logic
+│── dataset_creator.py        # Captures and saves user images
+│── train_model.py            # Trains the face recognition model
+│── main.py                   # Main attendance system application
+│── requirements.txt          # Dependencies
+│── README.md                 # Documentation
